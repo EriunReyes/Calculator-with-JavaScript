@@ -1,0 +1,20 @@
+#calculator {
+    background-color: black;
+    text-align: center;
+}
+#display {
+    text-align: right;
+}
+
+button {
+    width: 50px;
+}
+
+.row {
+    padding: 10px;
+}
+
+button {
+    width: 50px;
+    border-radius: 50%;
+}
